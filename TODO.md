@@ -1,0 +1,4 @@
+- [x] Update Cart.tsx to remove FC and use direct prop typing
+- [x] Update ProductList.tsx to remove FC and use direct prop typing
+- [x] Update App.tsx to remove FC
+- [x] Run TypeScript check to verify fixes
